@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![osu! signature card](/card?user=ML1bra&mode=std&lang=en&animation=true&skills=true)](https://osu.ppy.sh/u/ML1bra)
+
 <!--
 **1057237562/1057237562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
