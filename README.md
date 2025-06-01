@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![osu! signature card](/card?user=ML1bra&mode=std&lang=en&animation=true&skills=true)](https://osu.ppy.sh/u/ML1bra)
+<a href="https://osu.ppy.sh/u/ML1bra"><img src="https://osu-sig.vercel.app/card?user=ML1bra&mode=std&lang=en&animation=true&skills=true" /></a>
 
 <!--
 **1057237562/1057237562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
